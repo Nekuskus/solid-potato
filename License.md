@@ -1,44 +1,44 @@
 European Union Public Licence
 V. 1.2
 
-EUPL © the European Union 2007, 2016
+EUPL ¬© the European Union 2007, 2016
 
-This European Union Public Licence (the ëEUPLí) applies to the Work (as
+This European Union Public Licence (the ‚ÄòEUPL‚Äô) applies to the Work (as
 defined below) which is provided under the terms of this Licence. Any use of
 the Work, other than as authorised under this Licence is prohibited (to the
 extent such use is covered by a right of the copyright holder of the Work).
 
 The Work is provided under the terms of this Licence when the Licensor (as
 defined below) has placed the following notice immediately following the
-copyright notice for the Work: ìLicensed under the EUPLî, or has expressed by
+copyright notice for the Work: ‚ÄúLicensed under the EUPL‚Äù, or has expressed by
 any other means his willingness to license under the EUPL.
 
 1. Definitions
 
 In this Licence, the following terms have the following meaning:
-ó ëThe Licenceí: this Licence.
-ó ëThe Original Workí: the work or software distributed or communicated by the
-  ëLicensor under this Licence, available as Source Code and also as
-  ëExecutable Code as the case may be.
-ó ëDerivative Worksí: the works or software that could be created by the
-  ëLicensee, based upon the Original Work or modifications thereof. This
-  ëLicence does not define the extent of modification or dependence on the
-  ëOriginal Work required in order to classify a work as a Derivative Work;
-  ëthis extent is determined by copyright law applicable in the country
-  ëmentioned in Article 15.
-ó ëThe Workí: the Original Work or its Derivative Works.
-ó ëThe Source Codeí: the human-readable form of the Work which is the most
+‚Äî ‚ÄòThe Licence‚Äô: this Licence.
+‚Äî ‚ÄòThe Original Work‚Äô: the work or software distributed or communicated by the
+  ‚ÄòLicensor under this Licence, available as Source Code and also as
+  ‚ÄòExecutable Code as the case may be.
+‚Äî ‚ÄòDerivative Works‚Äô: the works or software that could be created by the
+  ‚ÄòLicensee, based upon the Original Work or modifications thereof. This
+  ‚ÄòLicence does not define the extent of modification or dependence on the
+  ‚ÄòOriginal Work required in order to classify a work as a Derivative Work;
+  ‚Äòthis extent is determined by copyright law applicable in the country
+  ‚Äòmentioned in Article 15.
+‚Äî ‚ÄòThe Work‚Äô: the Original Work or its Derivative Works.
+‚Äî ‚ÄòThe Source Code‚Äô: the human-readable form of the Work which is the most
   convenient for people to study and modify.
 
-ó ëThe Executable Codeí: any code which has generally been compiled and which
+‚Äî ‚ÄòThe Executable Code‚Äô: any code which has generally been compiled and which
   is meant to be interpreted by a computer as a program.
-ó ëThe Licensorí: the natural or legal person that distributes or communicates
+‚Äî ‚ÄòThe Licensor‚Äô: the natural or legal person that distributes or communicates
   the Work under the Licence.
-ó ëContributor(s)í: any natural or legal person who modifies the Work under
+‚Äî ‚ÄòContributor(s)‚Äô: any natural or legal person who modifies the Work under
   the Licence, or otherwise contributes to the creation of a Derivative Work.
-ó ëThe Licenseeí or ëYouí: any natural or legal person who makes any usage of
+‚Äî ‚ÄòThe Licensee‚Äô or ‚ÄòYou‚Äô: any natural or legal person who makes any usage of
   the Work under the terms of the Licence.
-ó ëDistributioní or ëCommunicationí: any act of selling, giving, lending,
+‚Äî ‚ÄòDistribution‚Äô or ‚ÄòCommunication‚Äô: any act of selling, giving, lending,
   renting, distributing, communicating, transmitting, or otherwise making
   available, online or offline, copies of the Work or providing access to its
   essential functionalities at the disposal of any other natural or legal
@@ -50,15 +50,15 @@ The Licensor hereby grants You a worldwide, royalty-free, non-exclusive,
 sublicensable licence to do the following, for the duration of copyright
 vested in the Original Work:
 
-ó use the Work in any circumstance and for all usage,
-ó reproduce the Work,
-ó modify the Work, and make Derivative Works based upon the Work,
-ó communicate to the public, including the right to make available or display
+‚Äî use the Work in any circumstance and for all usage,
+‚Äî reproduce the Work,
+‚Äî modify the Work, and make Derivative Works based upon the Work,
+‚Äî communicate to the public, including the right to make available or display
   the Work or copies thereof to the public and perform publicly, as the case
   may be, the Work,
-ó distribute the Work or copies thereof,
-ó lend and rent the Work or copies thereof,
-ó sublicense rights in the Work or copies thereof.
+‚Äî distribute the Work or copies thereof,
+‚Äî lend and rent the Work or copies thereof,
+‚Äî sublicense rights in the Work or copies thereof.
 
 Those rights can be exercised on any media, supports and formats, whether now
 known or later invented, as far as the applicable law permits so.
@@ -104,7 +104,7 @@ Copyleft clause: If the Licensee distributes or communicates copies of the
 Original Works or Derivative Works, this Distribution or Communication will be
 done under the terms of this Licence or of a later version of this Licence
 unless the Original Work is expressly distributed only under this version of
-the Licence ó for example by communicating ëEUPL v. 1.2 onlyí. The Licensee
+the Licence ‚Äî for example by communicating ‚ÄòEUPL v. 1.2 only‚Äô. The Licensee
 (becoming Licensor) cannot offer or impose any additional terms or conditions
 on the Work or Derivative Work that alter or restrict the terms of the
 Licence.
@@ -113,7 +113,7 @@ Compatibility clause: If the Licensee Distributes or Communicates Derivative
 Works or copies thereof based upon both the Work and another work licensed
 under a Compatible Licence, this Distribution or Communication can be done
 under the terms of this Compatible Licence. For the sake of this clause,
-ëCompatible Licenceí refers to the licences listed in the appendix attached to
+‚ÄòCompatible Licence‚Äô refers to the licences listed in the appendix attached to
 this Licence. Should the Licensee's obligations under the Compatible Licence
 conflict with his/her obligations under this Licence, the obligations of the
 Compatible Licence shall prevail.
@@ -146,9 +146,9 @@ terms of this Licence.
 
 The Work is a work in progress, which is continuously improved by numerous
 Contributors. It is not a finished work and may therefore contain defects or
-ëbugsí inherent to this type of development.
+‚Äòbugs‚Äô inherent to this type of development.
 
-For the above reason, the Work is provided under the Licence on an ëas isí
+For the above reason, the Work is provided under the Licence on an ‚Äòas is‚Äô
 basis and without warranties of any kind concerning the Work, including
 without limitation merchantability, fitness for a particular purpose, absence
 of defects or errors, accuracy, non-infringement of intellectual property
@@ -181,8 +181,8 @@ liability.
 
 10. Acceptance of the Licence
 
-The provisions of this Licence can be accepted by clicking on an icon ëI
-agreeí placed under the bottom of a window displaying the text of this Licence
+The provisions of this Licence can be accepted by clicking on an icon ‚ÄòI
+agree‚Äô placed under the bottom of a window displaying the text of this Licence
 or by affirming consent in any other similar way, in accordance with the rules
 of applicable law. Clicking on that icon indicates your clear and irrevocable
 acceptance of this Licence and all of its terms and conditions.
@@ -232,12 +232,12 @@ their choice.
 14. Jurisdiction
 
 Without prejudice to specific agreement between parties,
-ó any litigation resulting from the interpretation of this License, arising
+‚Äî any litigation resulting from the interpretation of this License, arising
   between the European Union institutions, bodies, offices or agencies, as a
   Licensor, and any Licensee, will be subject to the jurisdiction of the Court
   of Justice of the European Union, as laid down in article 272 of the Treaty
   on the Functioning of the European Union,
-ó any litigation arising between other parties and resulting from the
+‚Äî any litigation arising between other parties and resulting from the
   interpretation of this License, will be subject to the exclusive
   jurisdiction of the competent court where the Licensor resides or conducts
   its primary business.
@@ -245,30 +245,30 @@ Without prejudice to specific agreement between parties,
 15. Applicable Law
 
 Without prejudice to specific agreement between parties,
-ó this Licence shall be governed by the law of the European Union Member State
+‚Äî this Licence shall be governed by the law of the European Union Member State
   where the Licensor has his seat, resides or has his registered office,
-ó this licence shall be governed by Belgian law if the Licensor has no seat,
+‚Äî this licence shall be governed by Belgian law if the Licensor has no seat,
   residence or registered office inside a European Union Member State.
 
 Appendix
 
-ëCompatible Licencesí according to Article 5 EUPL are:
-ó GNU General Public License (GPL) v. 2, v. 3
-ó GNU Affero General Public License (AGPL) v. 3
-ó Open Software License (OSL) v. 2.1, v. 3.0
-ó Eclipse Public License (EPL) v. 1.0
-ó CeCILL v. 2.0, v. 2.1
-ó Mozilla Public Licence (MPL) v. 2
-ó GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
-ó Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for
+‚ÄòCompatible Licences‚Äô according to Article 5 EUPL are:
+‚Äî GNU General Public License (GPL) v. 2, v. 3
+‚Äî GNU Affero General Public License (AGPL) v. 3
+‚Äî Open Software License (OSL) v. 2.1, v. 3.0
+‚Äî Eclipse Public License (EPL) v. 1.0
+‚Äî CeCILL v. 2.0, v. 2.1
+‚Äî Mozilla Public Licence (MPL) v. 2
+‚Äî GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
+‚Äî Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for
   works other than software
-ó European Union Public Licence (EUPL) v. 1.1, v. 1.2
-ó QuÈbec Free and Open-Source Licence ó Reciprocity (LiLiQ-R) or
+‚Äî European Union Public Licence (EUPL) v. 1.1, v. 1.2
+‚Äî Qu√©bec Free and Open-Source Licence ‚Äî Reciprocity (LiLiQ-R) or
   Strong Reciprocity (LiLiQ-R+)
 
-ó The European Commission may update this Appendix to later versions of the
+‚Äî The European Commission may update this Appendix to later versions of the
   above licences without producing a new version of the EUPL, as long as they
   provide the rights granted in Article 2 of this Licence and protect the
   covered Source Code from exclusive appropriation.
-ó All other changes or additions to this Appendix require the production of a
+‚Äî All other changes or additions to this Appendix require the production of a
   new EUPL version.
